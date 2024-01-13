@@ -4,13 +4,13 @@ This is a fully-featured MERN project. E-Commerce Products Full Stack based appl
 
 ## Tech Stack
 
-ReactJS, Vue.js, JavaScript, MongoDB, NodeJS, Express
+ReactJS, Vite.js, JavaScript, MongoDB, NodeJS, Express
 
 
 ## Deployment Link
    - https://eproducts.vercel.app/
 
-   - For Admin-panel: https://e-admin.vercel.ap/
+   - For Admin-panel: https://e-admin.vercel.app/
      
    - For Backend: https://ecommerce-backend-deploy.onrender.com
 
