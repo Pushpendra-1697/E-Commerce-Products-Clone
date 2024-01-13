@@ -67,6 +67,8 @@ Images and all necessary information required or user intrested to look at.
 
  ### Product Detail Page
  This the Product detail page where user can see the details of order and add the product to cart.
+
+ ### Admin Panel
  
 
 
