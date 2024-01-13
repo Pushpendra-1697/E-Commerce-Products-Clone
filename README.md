@@ -9,6 +9,8 @@ ReactJS, Vue.js, JavaScript, MongoDB, NodeJS, Express
 
 ## Deployment Link
 https://eproducts.vercel.app/
+For Admin-panel: https://e-admin.vercel.ap/
+For Backend: https://ecommerce-backend-deploy.onrender.com
 
 ## Demo Signup Credentials
 Use this Credentials to Signup as a user.
