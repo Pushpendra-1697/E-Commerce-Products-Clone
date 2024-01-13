@@ -1,1 +1,1 @@
-export const backendURL = 'http://localhost:4000';
+export const backendURL = 'https://ecommerce-backend-deploy.onrender.com';
