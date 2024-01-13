@@ -50,16 +50,19 @@ Clone the Repository from Github. Then do the following steps:
  ### Home Page
  This is the landing page when user visits for the website for first time.
 
+![Screenshot (447)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/121d9c61-efc4-4a28-bc09-6bddf9fd94f8)
 
 
  ### Product Page
 Images and all necessary information required or user intrested to look at.
 
+![Screenshot (449)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/d431bf4f-2495-464b-9693-0febb6ef4571)
 
 
  ### Sign In Page
  In Sign in page where user need to give their credentials to access the protected parts of the website.
  
+![Screenshot (457)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/ce578779-d6d4-4881-ad42-3b52a04b6f79)
 
 
 
@@ -67,13 +70,27 @@ Images and all necessary information required or user intrested to look at.
  This section shows the best selling products available on the website.
  
 
+![Screenshot (456)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/4dcc3057-c09b-406b-b808-3dc6045387d5)
 
 
  ### Product Detail Page
  This the Product detail page where user can see the details of order and add the product to cart.
 
+![Screenshot (448)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/f497a469-26f1-42ab-824d-7f8718cc15f2)
+![Screenshot (454)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/7446690e-51e5-4d4a-b843-804ff06cca4e)
+
+
  ### Admin Panel
- 
+
+![Screenshot (451)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/3092bbc7-a9b6-484f-ac3b-8771373f50b4)
+
+![Screenshot (452)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/f95033b2-89d9-45bd-bbbd-df32baecc5d6)
+
+
+![Screenshot (453)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/b6e6ca52-cd9a-4c91-b39e-94e3e4f8d2eb)
+
+ ### Cart Page
+![Screenshot (450)](https://github.com/Pushpendra-1697/E-Commerce-Products-Clone/assets/104748364/eb7c394d-8ac9-46f7-851a-c980c90bd438)
 
 
 
